@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Age  /> should match snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-1ky0k5h-MuiGrid-root"
+>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiFormControl-root css-1fyavwt-MuiFormControl-root"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd css-v4u5dn-MuiInputBase-root-MuiInput-root"
+      >
+        <input
+          aria-describedby="standard-weight-helper-text"
+          aria-invalid="false"
+          aria-label="weight"
+          class="MuiInputBase-input MuiInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd css-nz481w-MuiInputBase-input-MuiInput-input"
+          id="standard-adornment-weight"
+          type="text"
+          value="18"
+        />
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeSmall css-1laqsz7-MuiInputAdornment-root"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1pnmrwp-MuiTypography-root"
+          >
+            yrs old
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
