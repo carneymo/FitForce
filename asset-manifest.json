@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FitForce/static/css/main.f51d5156.css",
-    "main.js": "/FitForce/static/js/main.12e0c211.js",
+    "main.js": "/FitForce/static/js/main.03976206.js",
     "static/js/56.2189d9cc.chunk.js": "/FitForce/static/js/56.2189d9cc.chunk.js",
     "static/js/129.dbb6dfdc.chunk.js": "/FitForce/static/js/129.dbb6dfdc.chunk.js",
     "static/js/27.5e02fc99.chunk.js": "/FitForce/static/js/27.5e02fc99.chunk.js",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.12e0c211.js"
+    "static/js/main.03976206.js"
   ]
 }
