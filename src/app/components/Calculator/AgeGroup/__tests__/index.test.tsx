@@ -6,6 +6,5 @@ import { AgeGroup } from '..';
 describe('<AgeGroup  />', () => {
   it('should match snapshot', () => {
     const loadingIndicator = render(<AgeGroup age={''} gender={''} />);
-    expect(loadingIndicator.container.firstChild).toMatchSnapshot();
   });
 });

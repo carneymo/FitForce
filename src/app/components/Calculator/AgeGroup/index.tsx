@@ -42,7 +42,7 @@ export function AgeGroup(props: Props) {
 
   return (
     <Grid
-      xs={4}
+      xs={12}
       item
       sx={{ marginTop: 1, textAlign: 'center' }}
       alignContent={'center'}

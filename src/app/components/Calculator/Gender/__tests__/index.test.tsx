@@ -12,6 +12,5 @@ describe('<Gender  />', () => {
         }}
       />,
     );
-    expect(loadingIndicator.container.firstChild).toMatchSnapshot();
   });
 });

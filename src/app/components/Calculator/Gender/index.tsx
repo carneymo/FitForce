@@ -20,7 +20,7 @@ export const Gender = memo((props: Props) => {
 
   return (
     <Grid
-      xs={4}
+      xs={6}
       item
       display={'flex'}
       alignItems={'center'}

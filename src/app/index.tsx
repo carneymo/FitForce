@@ -14,7 +14,7 @@ export function App() {
   const { i18n } = useTranslation();
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/FitForce/">
       <Helmet defaultTitle="Fit Force" htmlAttributes={{ lang: i18n.language }}>
         <meta
           name="description"

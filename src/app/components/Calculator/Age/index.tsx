@@ -48,7 +48,7 @@ export const Age = memo((props: Props) => {
 
   return (
     <Grid
-      xs={4}
+      xs={6}
       item
       sx={{ marginTop: 1, textAlign: 'center' }}
       alignContent={'center'}

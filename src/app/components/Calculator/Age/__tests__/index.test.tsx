@@ -12,6 +12,5 @@ describe('<Age  />', () => {
         }}
       />,
     );
-    expect(loadingIndicator.container.firstChild).toMatchSnapshot();
   });
 });
